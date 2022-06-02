@@ -4,6 +4,10 @@
   "author": "Arrowhead Apps",
   "license": "MIT",
   "main": "defaults.js",
+  "keywords": [
+    "lockfile-shaker-plugin",
+    "strapi"
+  ],
   "files": [
     "defaults.js"
   ],

@@ -1,0 +1,13 @@
+{
+  "name": "lockfile-shaker-strapi",
+  "version": "1.0.0",
+  "author": "Arrowhead Apps",
+  "license": "MIT",
+  "main": "defaults.js",
+  "files": [
+    "defaults.js"
+  ],
+  "repository": {
+    "url": "git@github.com:arrowheadapps/lockfile-shaker-strapi.git"
+  }
+}

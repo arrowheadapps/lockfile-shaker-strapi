@@ -53,12 +53,6 @@ const config = {
         /node_modules\/sanitize-html$/,
         /node_modules\/draft-js$/,
         /node_modules\/highlight\.js$/,
-        /node_modules\/firebase$/,
-        /node_modules\/firebaseui$/,
-
-        // Currently used only by the Strapi CLI commands which we bypass
-        /node_modules\/inquirer$/,
-        /node_modules\/ora$/,
       ],
     }
   ],
